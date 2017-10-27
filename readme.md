@@ -19,5 +19,6 @@ list([])
 -- returns ''
 Note: all the hashes are pre-validated and will only contain A-Z, a-z, '-' and '.'.
 FUNDAMENTALS STRINGS FORMATTING ALGORITHMS
+https://www.codewars.com/kata/53368a47e38700bd8300030d 
 
 
